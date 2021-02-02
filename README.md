@@ -1,6 +1,5 @@
 # InterviewBitSwift
 
-# Interview Questions asked at Microsoft
 1. Largest Number
 2. Max Sum Contiguous Subarray
 3. Spiral Order Matrix I
