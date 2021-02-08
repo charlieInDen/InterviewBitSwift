@@ -2,8 +2,8 @@
 //  Max Distance.swift
 //  Vision
 //
-//  Created by OLX on 01/02/21.
-//  Copyright © 2021 OLX. All rights reserved.
+//  Created by  on 01/02/21.
+//  Copyright © 2021 . All rights reserved.
 //
 
 import Foundation

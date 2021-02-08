@@ -2,8 +2,8 @@
 //  Maximum Gap.swift
 //  Vision
 //
-//  Created by OLX on 28/01/21.
-//  Copyright © 2021 OLX. All rights reserved.
+//  Created by  on 28/01/21.
+//  Copyright © 2021 . All rights reserved.
 //
 
 import Foundation

@@ -2,8 +2,8 @@
 //  Max Min.swift
 //  Vision
 //
-//  Created by OLX on 21/01/21.
-//  Copyright © 2021 OLX. All rights reserved.
+//  Created by  on 21/01/21.
+//  Copyright © 2021 . All rights reserved.
 //
 
 import Foundation
